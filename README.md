@@ -2,7 +2,7 @@
 Квартиры в России - веб приложение для поиска недвижимости в удобном районе.
 
 ## Стек
-**Frontent**: JavaScript, React, Openlayers, HTML, CSS  
+**Frontent**: JavaScript, React, OpenLayers, HTML, CSS  
   
 **Backend**: Java, Spring Boot, Spring MVC, Spring JPA  
   
