@@ -8,7 +8,7 @@
   
 **SQL**: h2 database  
   
-## Запуск
+## Запус
 #### Сборка:  
 - mvn clean package  
 - mvn spring-boot:run  
